@@ -47,4 +47,5 @@
 #### 4) 개선안
 ## :pushpin:**사진/동영상**
 ![스크린샷(1384)](https://user-images.githubusercontent.com/99727385/175959239-1bc31802-fbb1-4dec-9baf-646ca3250204.png)
-https://user-images.githubusercontent.com/99727385/175959548-7df3915b-4fb7-4c8d-b6d4-ac8edf893612.mp4
+![실시간 모니터링 시연영상](https://user-images.githubusercontent.com/99727385/175960085-f786ab4f-cfe1-4caa-8f9b-3b6749b8b498.gif)
+
