@@ -1,3 +1,7 @@
+.center {
+  display: block;
+  margin: auto;
+}
 # 당뇨병 환자를 위한 식단관리 AI 영양사
 
 
@@ -11,7 +15,7 @@
 
 
 ## :pushpin:**문제인식**
-![스크린샷(1387)](https://user-images.githubusercontent.com/99727385/175970665-b9c38402-dd47-4e59-93da-7b20aa7beccd.png)
+![스크린샷(1387)](https://user-images.githubusercontent.com/99727385/175970665-b9c38402-dd47-4e59-93da-7b20aa7beccd.png){: .center}
 >  대한당뇨병협회의 2020년 자료조사에 따르면 약 4명 중 3명 이상의 당뇨 환자들은 혈당 조절에 실패하고 영양 불균형의 문제를<br/>가지고 있습니다. 식단 관리가 당뇨 관리의 핵심 요소임에도 번거로움, 지식 부족 등을 이유로 제대로 이뤄지지 않기 때문입니다.<br/>
 
 ![스크린샷(1388)](https://user-images.githubusercontent.com/99727385/175970669-0b274103-5c5e-4302-9f51-03610eaf1058.png)
