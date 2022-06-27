@@ -47,5 +47,6 @@
 #### 4) 개선안
 ## :pushpin:**사진/동영상**
 ![스크린샷(1384)](https://user-images.githubusercontent.com/99727385/175959239-1bc31802-fbb1-4dec-9baf-646ca3250204.png)
-![실시간 모니터링 시연영상](https://user-images.githubusercontent.com/99727385/175960085-f786ab4f-cfe1-4caa-8f9b-3b6749b8b498.gif)
+![실시간_모니터링_시연영상_AdobeExpress](https://user-images.githubusercontent.com/99727385/175961368-41b1e8bb-63ab-42ae-b658-2ce2fdf8f083.gif)
+
 
