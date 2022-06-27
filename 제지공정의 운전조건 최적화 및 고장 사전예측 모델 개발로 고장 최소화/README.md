@@ -40,6 +40,15 @@
 |기준최대값|연속형|개별 태그가 부착된 기계에서 발생하는 값의 최대값|
 
 ## :pushpin:**프로젝트설명**
+#### 1) 문제상황
+![스크린샷(1379)](https://user-images.githubusercontent.com/99727385/175958138-7fa64ae5-2ef0-4639-a5f8-6437e58bf38f.png)![스크린샷(1380)](https://user-images.githubusercontent.com/99727385/175958240-ac6cfca4-9ee0-4e0c-9aad-2824bcd83c46.png)
+#### 2) 분석계획
+![스크린샷(1381)](https://user-images.githubusercontent.com/99727385/175958499-15559e62-02b0-4f89-b80b-c8ce1aa4e0d1.png)
 
+#### 3) 분석결과
+![스크린샷(1382)](https://user-images.githubusercontent.com/99727385/175958574-8618b639-8515-474c-ab63-efa3f699ff3f.png)
+
+#### 4) 개선안
+![스크린샷(1383)](https://user-images.githubusercontent.com/99727385/175958672-90d3e80e-7caf-486a-9816-162b9a635ea8.png)   
 ## :pushpin:**사진/동영상**
 
